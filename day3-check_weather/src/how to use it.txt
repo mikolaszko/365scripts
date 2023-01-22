@@ -1,0 +1,2 @@
+1. Get your api key from https://www.weatherapi.com/ and put it in a file api_key.txt in the same directory as main.rs
+2. Execute cargo run -- city to retrieve data
