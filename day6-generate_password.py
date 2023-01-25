@@ -7,13 +7,12 @@ import random
 def generate_password():
     ascii = list(string.ascii_letters)
     numbers = [1,2,3,4,5,6,7,8,9]
-    password = [] 
+    password = "" 
     index = 0
     symbols = ascii + numbers
-    print(sys.argv)
     while index < int(sys.argv[1]):
-        print('running')
-        password.append(random.choice(symbols))
+        random_number = random.randint(0, len(symbols) - 1)
+        password = password + str(symbols[random_number])
         index += 1
     print(password)
 
