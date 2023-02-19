@@ -13,3 +13,7 @@ Bash, Python, Rust, Perl and probably many more along this one
 No rules, but it would be great if I was able to write 365 scripts in 365 days and learn something along the way.
 If you find anything useful here feel free to use it on your own. I am taking inspiration from a lot of people myself
 so it's all *good* :)
+
+## Status - On Hold
+
+My work load increased at my current job and I am currently in the process of writing Blazing-TS. My love for scripting isn't gone and I hope that in the future I'll still have some mental and time space to create more and more scripts :)
